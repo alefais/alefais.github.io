@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking | Alessandra Fais</title>
+    <link>https://alefais.github.io/tags/networking/</link>
+      <atom:link href="https://alefais.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Networking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Sun, 01 Jul 2018 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Networking</title>
+      <link>https://alefais.github.io/tags/networking/</link>
+    </image>
+    
+    <item>
+      <title>Networks and Technologies for Telecommunications - SDN part</title>
+      <link>https://alefais.github.io/academicprojects/rtt-sdn/</link>
+      <pubDate>Sun, 01 Jul 2018 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/academicprojects/rtt-sdn/</guid>
+      <description>&lt;p&gt;Portion of an In-Band Telemetry application to monitor the latency of packets traversing a certain path/tunnel established between two switches. Programming language/framework: Java, P4, P4 Runtime, ONOS, Mininet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Packet Switching and Processing Architectures</title>
+      <link>https://alefais.github.io/academicprojects/aed/</link>
+      <pubDate>Tue, 01 May 2018 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/academicprojects/aed/</guid>
+      <description>&lt;p&gt;C++ monitoring application that captures traffic with libpcap and identifies and analyses different flows.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Programming</title>
+      <link>https://alefais.github.io/academicprojects/ap/</link>
+      <pubDate>Thu, 01 Dec 2016 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/academicprojects/ap/</guid>
+      <description>&lt;p&gt;Collection of four projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OCaml Domain Specific Language for a Software Defined Network model and a simulation of the behavior of the network.&lt;/li&gt;
+&lt;li&gt;Python API for a Software Defined Network model and a simulation of the behavior and state of the network.&lt;/li&gt;
+&lt;li&gt;Multiset data structure implemented in Java using different concurrency policies.&lt;/li&gt;
+&lt;li&gt;Simple Scala IRC-style chat program.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network Management</title>
+      <link>https://alefais.github.io/academicprojects/gr/</link>
+      <pubDate>Tue, 01 Jul 2014 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/academicprojects/gr/</guid>
+      <description>&lt;p&gt;Lua script that monitors system events with Sysdig to measure the performance of an application and the amount of resources required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Networks</title>
+      <link>https://alefais.github.io/academicprojects/rcl/</link>
+      <pubDate>Thu, 01 May 2014 10:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/academicprojects/rcl/</guid>
+      <description>&lt;p&gt;Java implementation of a distributed chat system where users in a WAN can register and exchange messages with each others. The architecture of the application is composed by a Java RMI registry, a server, a set of user agents that manage the requests inserted by connected users, a set of proxies that manage the messages addressed to offline users.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multicore Programming | Alessandra Fais</title>
+    <link>https://alefais.github.io/tags/multicore-programming/</link>
+      <atom:link href="https://alefais.github.io/tags/multicore-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multicore Programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Multicore Programming</title>
+      <link>https://alefais.github.io/tags/multicore-programming/</link>
+    </image>
+    
+    <item>
+      <title>WindFlow: Efficient Continuous Data Stream Processing with Parallel Building Blocks</title>
+      <link>https://alefais.github.io/publications/windflow/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/publications/windflow/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security | Alessandra Fais</title>
+    <link>https://alefais.github.io/tags/security/</link>
+      <atom:link href="https://alefais.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Tue, 24 Mar 2020 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Security</title>
+      <link>https://alefais.github.io/tags/security/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating real-world streaming applications with Data Stream Processing frameworks</title>
+      <link>https://alefais.github.io/talks/phdcourse-research/</link>
+      <pubDate>Tue, 24 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/phdcourse-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
