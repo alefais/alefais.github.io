@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessandra Fais</title>
+    <link>https://alefais.github.io/authors/admin/</link>
+      <atom:link href="https://alefais.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessandra Fais</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 22 May 2020 15:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Alessandra Fais</title>
+      <link>https://alefais.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Wireless Networks course - Academic Year 2019/2020</title>
+      <link>https://alefais.github.io/teaching/wireless-networks2020/</link>
+      <pubDate>Fri, 22 May 2020 15:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/teaching/wireless-networks2020/</guid>
+      <description>&lt;p&gt;Teaching support for the laboratory part of the course Wireless Networks at the University of Pisa. The &amp;ldquo;Virtualization Lab&amp;rdquo; module had the aim of introducing the concepts of virtualization, hypervisors, virtual machines and containerization. In particular, the focus has been put on Docker by describing the Docker architecture and objects, Dockerfile and best practices and Docker Compose. One last section has been devoted to introduce the students to the concepts of cloud computing, Software Defined Networks and Network Function Virtualization. Finally, the Red Hat OpenStack cloud computing platform has been described.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WindFlow: Efficient Continuous Data Stream Processing with Parallel Building Blocks</title>
+      <link>https://alefais.github.io/publications/windflow/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/publications/windflow/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating real-world streaming applications with Data Stream Processing frameworks</title>
+      <link>https://alefais.github.io/talks/phdcourse-research/</link>
+      <pubDate>Tue, 24 Mar 2020 11:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/phdcourse-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Data Stream Processing Applications with the WindFlow library</title>
+      <link>https://alefais.github.io/talks/windflow-nerdtalk/</link>
+      <pubDate>Fri, 21 Feb 2020 11:30:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/windflow-nerdtalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating real-world streaming applications with Data Stream Processing frameworks</title>
+      <link>https://alefais.github.io/talks/phdcourse-cpss/</link>
+      <pubDate>Fri, 24 Jan 2020 11:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/phdcourse-cpss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
