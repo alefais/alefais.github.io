@@ -5,7 +5,7 @@
     <link>https://alefais.github.io/</link>
       <atom:link href="https://alefais.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Fais</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 22 May 2020 15:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Wed, 16 Sep 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alefais.github.io/img/icon-192.png</url>
       <title>Alessandra Fais</title>
@@ -55,6 +55,31 @@
     </item>
     
     <item>
+      <title>Data Stream Processing in Software Defined Networks: Perspectives and Challenges</title>
+      <link>https://alefais.github.io/talks/conference-ieee-camad/</link>
+      <pubDate>Wed, 16 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/conference-ieee-camad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Stream Processing in Software Defined Networks: Perspectives and Challenges</title>
+      <link>https://alefais.github.io/publications/ieee-camad-2020/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/publications/ieee-camad-2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Service Design Aspects in 5G and Beyond Scenario</title>
+      <link>https://alefais.github.io/talks/phdcourse-5g6g/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/phdcourse-5g6g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wireless Networks course - Academic Year 2019/2020</title>
       <link>https://alefais.github.io/teaching/wireless-networks2020/</link>
       <pubDate>Fri, 22 May 2020 15:30:00 +0000</pubDate>
@@ -64,16 +89,7 @@
     </item>
     
     <item>
-      <title>WindFlow: Efficient Continuous Data Stream Processing with Parallel Building Blocks</title>
-      <link>https://alefais.github.io/publications/windflow/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alefais.github.io/publications/windflow/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Accelerating real-world streaming applications with Data Stream Processing frameworks</title>
+      <title>Enhancing Scalability in Software Defined Networks Throug Data Stream Processing</title>
       <link>https://alefais.github.io/talks/phdcourse-research/</link>
       <pubDate>Tue, 24 Mar 2020 11:00:00 +0000</pubDate>
       <guid>https://alefais.github.io/talks/phdcourse-research/</guid>
@@ -82,9 +98,9 @@
     
     <item>
       <title>Implementing Data Stream Processing Applications with the WindFlow library</title>
-      <link>https://alefais.github.io/talks/windflow-nerdtalk/</link>
+      <link>https://alefais.github.io/talks/nerdtalks-vol6-windflow/</link>
       <pubDate>Fri, 21 Feb 2020 11:30:00 +0000</pubDate>
-      <guid>https://alefais.github.io/talks/windflow-nerdtalk/</guid>
+      <guid>https://alefais.github.io/talks/nerdtalks-vol6-windflow/</guid>
       <description></description>
     </item>
     

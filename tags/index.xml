@@ -5,12 +5,68 @@
     <link>https://alefais.github.io/tags/</link>
       <atom:link href="https://alefais.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Fri, 22 May 2020 15:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Wed, 16 Sep 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alefais.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://alefais.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Data Stream Processing</title>
+      <link>https://alefais.github.io/tags/data-stream-processing/</link>
+      <pubDate>Wed, 16 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/data-stream-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Networks</title>
+      <link>https://alefais.github.io/tags/next-generation-networks/</link>
+      <pubDate>Wed, 16 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/next-generation-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://alefais.github.io/tags/parallel-computing/</link>
+      <pubDate>Wed, 16 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Networking</title>
+      <link>https://alefais.github.io/tags/software-defined-networking/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/software-defined-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5G and beyond</title>
+      <link>https://alefais.github.io/tags/5g-and-beyond/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/5g-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Cloudification</title>
+      <link>https://alefais.github.io/tags/network-cloudification/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/network-cloudification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization</title>
+      <link>https://alefais.github.io/tags/virtualization/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/tags/virtualization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cloud Computing</title>
@@ -69,38 +125,6 @@
     </item>
     
     <item>
-      <title>Virtualization</title>
-      <link>https://alefais.github.io/tags/virtualization/</link>
-      <pubDate>Fri, 22 May 2020 15:30:00 +0000</pubDate>
-      <guid>https://alefais.github.io/tags/virtualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Stream Processing</title>
-      <link>https://alefais.github.io/tags/data-stream-processing/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alefais.github.io/tags/data-stream-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multicore Programming</title>
-      <link>https://alefais.github.io/tags/multicore-programming/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alefais.github.io/tags/multicore-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://alefais.github.io/tags/parallel-computing/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alefais.github.io/tags/parallel-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data plane acceleration</title>
       <link>https://alefais.github.io/tags/data-plane-acceleration/</link>
       <pubDate>Tue, 24 Mar 2020 11:00:00 +0000</pubDate>
@@ -109,7 +133,7 @@
     </item>
     
     <item>
-      <title>Network Monitoring</title>
+      <title>Network monitoring</title>
       <link>https://alefais.github.io/tags/network-monitoring/</link>
       <pubDate>Tue, 24 Mar 2020 11:00:00 +0000</pubDate>
       <guid>https://alefais.github.io/tags/network-monitoring/</guid>

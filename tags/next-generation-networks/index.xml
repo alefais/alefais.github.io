@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Next Generation Networks | Alessandra Fais</title>
+    <link>https://alefais.github.io/tags/next-generation-networks/</link>
+      <atom:link href="https://alefais.github.io/tags/next-generation-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Next Generation Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;#9400; 2019 Alessandra Fais</copyright><lastBuildDate>Wed, 16 Sep 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alefais.github.io/img/icon-192.png</url>
+      <title>Next Generation Networks</title>
+      <link>https://alefais.github.io/tags/next-generation-networks/</link>
+    </image>
+    
+    <item>
+      <title>Data Stream Processing in Software Defined Networks: Perspectives and Challenges</title>
+      <link>https://alefais.github.io/talks/conference-ieee-camad/</link>
+      <pubDate>Wed, 16 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/conference-ieee-camad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Stream Processing in Software Defined Networks: Perspectives and Challenges</title>
+      <link>https://alefais.github.io/publications/ieee-camad-2020/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/publications/ieee-camad-2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Network Service Design Aspects in 5G and Beyond Scenario</title>
+      <link>https://alefais.github.io/talks/phdcourse-5g6g/</link>
+      <pubDate>Fri, 10 Jul 2020 10:00:00 +0000</pubDate>
+      <guid>https://alefais.github.io/talks/phdcourse-5g6g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

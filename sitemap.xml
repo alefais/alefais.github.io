@@ -19,17 +19,107 @@
   
   <url>
     <loc>https://alefais.github.io/authors/admin/</loc>
-    <lastmod>2020-05-22T15:30:00+00:00</lastmod>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://alefais.github.io/</loc>
-    <lastmod>2020-05-22T15:30:00+00:00</lastmod>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://alefais.github.io/authors/</loc>
-    <lastmod>2020-05-22T15:30:00+00:00</lastmod>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/data-stream-processing/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/talks/conference-ieee-camad/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/next-generation-networks/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/parallel-computing/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/talks/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/</loc>
+    <lastmod>2020-09-16T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publication_types/1/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publications/ieee-camad-2020/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/authors/francesco-oppedisano/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/authors/gregorio-procissi/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publication_types/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/publications/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/software-defined-networking/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/authors/stefano-giordano/</loc>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/5g-and-beyond/</loc>
+    <lastmod>2020-07-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/network-cloudification/</loc>
+    <lastmod>2020-07-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/talks/phdcourse-5g6g/</loc>
+    <lastmod>2020-07-10T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alefais.github.io/tags/virtualization/</loc>
+    <lastmod>2020-07-10T10:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,17 +158,7 @@
   </url>
   
   <url>
-    <loc>https://alefais.github.io/tags/</loc>
-    <lastmod>2020-05-22T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alefais.github.io/tags/virtual-machines/</loc>
-    <lastmod>2020-05-22T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/tags/virtualization/</loc>
     <lastmod>2020-05-22T15:30:00+00:00</lastmod>
   </url>
   
@@ -88,72 +168,12 @@
   </url>
   
   <url>
-    <loc>https://alefais.github.io/publication_types/3/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/authors/andrea-cardaci/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/tags/data-stream-processing/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/authors/gabriele-mencagli/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/authors/luca-rinaldi/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/authors/marco-danelutto/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/authors/massimo-torquati/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/tags/multicore-programming/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/tags/parallel-computing/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/publication_types/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/publications/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/publications/windflow/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alefais.github.io/talks/phdcourse-research/</loc>
+    <loc>https://alefais.github.io/tags/data-plane-acceleration/</loc>
     <lastmod>2020-03-24T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alefais.github.io/tags/data-plane-acceleration/</loc>
+    <loc>https://alefais.github.io/talks/phdcourse-research/</loc>
     <lastmod>2020-03-24T11:00:00+00:00</lastmod>
   </url>
   
@@ -168,17 +188,12 @@
   </url>
   
   <url>
-    <loc>https://alefais.github.io/talks/</loc>
-    <lastmod>2020-03-24T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alefais.github.io/tags/security/</loc>
     <lastmod>2020-03-24T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alefais.github.io/talks/windflow-nerdtalk/</loc>
+    <loc>https://alefais.github.io/talks/nerdtalks-vol6-windflow/</loc>
     <lastmod>2020-02-21T11:30:00+00:00</lastmod>
   </url>
   
